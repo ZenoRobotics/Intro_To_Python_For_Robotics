@@ -19,4 +19,6 @@ Learn how to use Python on a Raspberry Pi Pico to read sensors, control actuator
 ## Part 3 — Robotics ecosystem
   * host Python
   * serial protocols
+    * UART
+    * I2C/SPI
   * ROS 2 / micro-ROS intro
