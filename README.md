@@ -1,4 +1,4 @@
-# Build Real Robots with Python and Raspberry Pi Pico
+# Python Robotics on the Raspberry Pi Pico: Sensors, Motors, and Control
 
 ## Course Goals:
 Learn how to use Python on a Raspberry Pi Pico to read sensors, control actuators, communicate with a host computer, and build real robotics projects step by step.
