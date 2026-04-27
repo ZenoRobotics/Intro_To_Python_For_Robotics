@@ -91,3 +91,19 @@ Key take aways:
   * input() waits for user
   * print() sends data back
 
+
+Similar Course Using the Arduino with Robotics
+1. Arduino (C/C++)
+* low-level
+* deterministic
+* classic robotics
+* ROS 1 bridge
+  
+2. Pico (MicroPython)
+* faster iteration
+* easier learning curve
+* modern workflow
+* stepping stone to ROS 2 concepts
+* dual processor cores
+
+  
