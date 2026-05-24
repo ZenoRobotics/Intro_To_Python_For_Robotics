@@ -93,7 +93,7 @@ Key take aways:
 
 
 Similar Course Using the Arduino with Robotics
-1. Arduino (C/C++)
+1. Arduino IDE (C/C++)
 * low-level
 * deterministic
 * classic robotics
